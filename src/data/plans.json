@@ -1,0 +1,50 @@
+[
+  {
+    "name": "FREE",
+    "price": 0,
+    "users": "1",
+    "features": [
+      { "name": "50 GB Storage", "available": true },
+      { "name": "Unlimited Public Projects", "available": true },
+      { "name": "Community Access", "available": true },
+      { "name": "Unlimited Public Projects", "available": false },
+      { "name": "Dedicated Phone Support", "available": false },
+      { "name": "Free Subdomain", "available": false },
+      {
+        "name": "Monthly Status Reports",
+        "available": false
+      }
+    ]
+  },
+  {
+    "name": "PLUS",
+    "price": 9,
+    "users": "5",
+    "features": [
+      { "name": "50 GB Storage", "available": true },
+      { "name": "Unlimited Public Projects", "available": true },
+      { "name": "Community Access", "available": true },
+      { "name": "Unlimited Public Projects", "available": true },
+      { "name": "Dedicated Phone Support", "available": true },
+      { "name": "Free Subdomain", "available": true },
+      { "name": "Monthly Status Reports", "available": false }
+    ]
+  },
+  {
+    "name": "PRO",
+    "price": 49,
+    "users": "Unlimited",
+    "features": [
+      { "name": "50 GB Storage", "available": true },
+      { "name": "Unlimited Public Projects", "available": true },
+      { "name": "Community Access", "available": true },
+      { "name": "Unlimited Public Projects", "available": true },
+      { "name": "Dedicated Phone Support", "available": true },
+      { "name": "Free Subdomain", "available": true },
+      {
+        "name": "Monthly Status Reports",
+        "available": true
+      }
+    ]
+  }
+]
